@@ -1,5 +1,5 @@
 # Stackoverflow
-Questions Auto-Classification with Log Regression Model Deployed with API on Flask
+Questions Auto-Classification Log Regression Model - Deployed to an API with Flask
 
 
 The main steps are:
