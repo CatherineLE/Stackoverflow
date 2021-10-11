@@ -28,4 +28,4 @@ On Bash: \
 Then go the the  Local URL: http://localhost:8501 for exemple to test the app.
 
 ### Play Button
-[![Streamlit App](https://static.streamlit.io/badges/stramlit_badge_black_white.svg)](https://share.streamlit.io/catherinele/stackoverflow/app_streamlit.py)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/catherinele/stackoverflow/app_streamlit.py)
