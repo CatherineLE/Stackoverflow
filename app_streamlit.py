@@ -8,7 +8,7 @@
 import streamlit as st
 import os
 
-from flask import jsonify 
+
 import pickle
 import unidecode
 import pandas as pd
