@@ -9,7 +9,7 @@ Final Model Deployed : SVC on LDA labels
 On bash: \
         $ export FLASK_APP=app_flask.py \
         $ flask run \
-        $ to quit : Ctrl + C \
+        $ to quit : Ctrl + C 
         
 Then run the cell on jupyter notebook to verify that the prediction is working well.
 
