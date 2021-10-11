@@ -1,5 +1,6 @@
 # Stackoverflow
-Questions Auto-Classification with Log Regression Model Deployed with API on Flask
+Multi-Labels Classification on Text with SVC on LDA  \
+Deployed with Flask or Streamlit
 
 Final Model Deployed : SVC on LDA labels
 
