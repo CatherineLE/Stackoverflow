@@ -44,12 +44,13 @@ def nettoyage(texte):
 
 
 st.title('Questions Tags')
-st.header("Multi-Labels Classification Tool")
+st.header("Multi-Labels Classification for Text Data")
 st.subheader("Enter the statement that you want to tag")
 
 
 
-user_text = st.text_input('Exemple :  possible print variable type standard cplusplus, access url cookie use socket, scrollview ignore child layout_height, cplusplus ide linux')
+user_text = st.text_input('Examples :  possible print variable type standard cplusplus, access url cookie use socket')
+
 user_text = nettoyage(user_text)
 
 if st.button('Predict') :
