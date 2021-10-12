@@ -25,7 +25,7 @@ On Bash: \
         $ export PATH="$HOME/.local/bin:$PATH" \
         $ streamlit run YOUR_APP.py 
         
-Then go the the  Local URL: http://localhost:8501 for exemple to test the app.
+Then go the the  Local URL: http://localhost:8501  to test the app.
 
 ### Play Button
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/catherinele/stackoverflow/app_streamlit.py)
