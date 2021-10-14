@@ -1,19 +1,20 @@
-# EDA and Modelisation
-
-see notebooks:
-- P5_01_notebookexploration_multi_labels.ipynb
-- P5_02_notebooktest_multi_labels.ipynb
-
-# Report and overview (in french)
-
-- P5_04_rapport_version2.pdf
-- P5_05_presentation_version2.pdf
 
 # Stackoverflow
 Multi-Labels Classification on Text with SVC on LDA  \
 Deployed with Flask or Streamlit
 
 Final Model Deployed : SVC on LDA labels
+
+## EDA and Modelisation
+
+see notebooks:
+- P5_01_notebookexploration_multi_labels.ipynb
+- P5_02_notebooktest_multi_labels.ipynb
+
+## Report and overview (in french)
+
+- P5_04_rapport_version2.pdf
+- P5_05_presentation_version2.pdf
 
 ## Flask  
 
