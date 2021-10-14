@@ -1,3 +1,14 @@
+# EDA and Modelisation
+
+see notebooks:
+- P5_01_notebookexploration_multi_labels.ipynb
+- P5_02_notebooktest_multi_labels.ipynb
+
+# Report and overview (in french)
+
+- P5_04_rapport_version2.pdf
+- P5_05_presentation_version2.pdf
+
 # Stackoverflow
 Multi-Labels Classification on Text with SVC on LDA  \
 Deployed with Flask or Streamlit
@@ -27,5 +38,5 @@ On Bash: \
         
 Then go the the  Local URL: http://localhost:8501  to test the app.
 
-### Play Button
+### Play Button to the Streamlit App
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/catherinele/stackoverflow/app_streamlit.py)
