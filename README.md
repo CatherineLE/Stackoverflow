@@ -20,6 +20,7 @@ see notebooks:
 
 On bash: \
         $ export FLASK_APP=app_flask.py \
+        $ export FLASK_ENV=development \
         $ flask run \
         $ to quit : Ctrl + C 
         
